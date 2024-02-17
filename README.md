@@ -53,7 +53,8 @@ Refactor the existing codes and provide the UML Diagram:
 </code></pre>
 
 # Strategy Pattern Output
-![image](https://github.com/ramos-jm/strategyPattern/assets/127398189/18f35f5d-3219-4716-b730-6ea304dadf69)
+![image](https://github.com/ramos-jm/strategyPattern/assets/127398189/3f18e6f5-4146-4f3b-ae44-1b86782e0ce0)
+
 
 # Class Diagram
 
