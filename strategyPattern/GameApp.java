@@ -21,7 +21,7 @@ public class GameApp {
         System.out.println("Wizard Offensive Move:");
         wizard.attack();
         System.out.println();
-        System.out.println("Wizard Offensive Move:");
+        System.out.println("Wizard Defensive Move:");
         wizard.defend();
         System.out.println();
 
@@ -30,7 +30,7 @@ public class GameApp {
         System.out.println("Archer Offensive Move:");
         archer.attack();
         System.out.println();
-        System.out.println("Archer Offensive Move:");
+        System.out.println("Archer Defensive Move:");
         archer.defend();
         System.out.println();
 
